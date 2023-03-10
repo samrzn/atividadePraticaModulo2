@@ -101,6 +101,11 @@ li {
     background-color: rgba(245, 245, 245, 0.342);
     padding-top: 43px;
     padding-left: 30px;
+    min-height: 40vh;
+}
+
+#firstRow {
+    margin-bottom: 3vh;
 }
 
 #main-contentInfo {
